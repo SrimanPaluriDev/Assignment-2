@@ -1,4 +1,4 @@
-escription
+description
 
 This project preprocesses a car dataset (train.csv) to prepare it for machine learning tasks. It includes handling missing values, extracting numeric values from attributes with units, and one-hot encoding categorical variables. The dataset contains 5,847 rows and 14 columns, including features like Mileage, Engine, Power, Fuel_Type, and Transmission.
 
